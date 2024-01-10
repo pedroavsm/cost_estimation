@@ -1,2 +1,2 @@
-# cost_estimation
-Cost function estimation exercise.
+# Cost Estimation
+This exercise estimates the total cost function, using ols from `statsmodels`.
